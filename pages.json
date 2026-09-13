@@ -1,4 +1,24 @@
 {
+	"subPackages": [
+		{
+			"root": "subpkg",
+			"pages": [
+				{
+					"path": "goods_detail/goods_detail",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				},
+				{
+					"path": "goods_list/goods_list",
+					"style": {
+						"navigationBarTitleText": ""
+					}
+				}
+
+			]
+		}
+	],
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
 			"path": "pages/home/home",
