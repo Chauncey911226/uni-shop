@@ -73,7 +73,7 @@
 					})
 				})
 				this.floorlist=res.message
-				console.log(res)
+
 			},
 			}
 		}
@@ -110,4 +110,5 @@
 		padding-left: 10rpx;
 		display: flex;
 	}
+
 </style>
